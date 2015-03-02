@@ -320,3 +320,7 @@ button.sendAsText span:hover, button.close.mainClose span:hover {
 td#maincell {
   padding-bottom: 10px;
 }
+
+.me_prefix {
+  visibility: hidden;
+}
